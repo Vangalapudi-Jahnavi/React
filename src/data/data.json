@@ -1,0 +1,18 @@
+{
+    "profiles":[
+        {
+            "basic":{
+                "name":"Jahnavi",
+                "role":"web developer",
+                "phone":"9090909090"
+            }
+        },
+        {
+            "basic":{
+                "name":"sirisha",
+                "role":"project guide",
+                "phone":"9156789457"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+.leftPanel {
+    border-radius: 4px;
+    border:2px solid black;
+      }
+   .rightPanel{
+    border:2px solid black;  
+   }   
+  
+  .leftPanel h5 {
+    margin: 20px;
+  }
+  
