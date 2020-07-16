@@ -5,13 +5,13 @@ export default class state extends Component {
     {
         super();
         this.state={
-            name:"Kasyap",
+            name:"Jahnavi",
         }
     }
     clickMe=()=>{
         this.setState(
             {
-                name:"Kasyap Velavarthipati"
+                name:"Vangalapudi Jahnavi"
             }
         )
     }

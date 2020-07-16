@@ -15,15 +15,13 @@ function App() {
       {/* <button class="btn btn-primary">Hello</button> */}
       {/* <h1>Using hooks</h1>
       <Hooks />
-    <h1>Kasyap VIIT</h1>
-    <h2>Keerthana Kattamuri</h2>
     <Home />
     <Hello />
 
     <Wish />
-    <Greeting name='Kasyap'></Greeting>
+    <Greeting name='jahnavi'></Greeting>
     <h1>This is my class</h1>
-    <Welcome name='Kasyap'></Welcome>
+    <Welcome name='jahnavi'></Welcome>
     <State />
     <ClassState /> */}
     {/* </div>
@@ -56,8 +54,8 @@ let Home=()=>{
   console.log(profile);
   return(
     <div className="row justify-content-center">
-      {profile.map((value,Kasyap)=>(
-        <div className="col-sm-10 col-md-4 col-lg-4 mt-1" key={Kasyap}>
+      {profile.map((value,jahnavi)=>(
+        <div className="col-sm-10 col-md-4 col-lg-4 mt-1" key={jahnavi}>
           <div className="card">
             <div className="card-body">
               <h1>

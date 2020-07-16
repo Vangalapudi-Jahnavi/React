@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "appname",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vkasyap.github.io/reactjs/",
+  "homepage": "https://vangalapudi-jahnavi.github.io/React/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -21,7 +21,7 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "appname"
   },
   "browserslist": {
     "production": [
